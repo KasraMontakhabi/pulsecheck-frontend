@@ -1,7 +1,11 @@
 # PulseCheck Frontend
 
-A beautiful, modern frontend for the PulseCheck uptime monitoring service built with Next.js 14 and JavaScript.
+A beautiful, modern frontend for the PulseCheck uptime monitoring service built with Next.js 15 and JavaScript.
 
+<img width="1679" alt="create-monitor" src="https://github.com/user-attachments/assets/59b238e8-340a-4792-a17a-38c25c34bafd" />
+<img width="1680" alt="dashboard" src="https://github.com/user-attachments/assets/300447c7-b453-4d43-a252-659bb6661ec6" />
+<img width="1678" alt="landing-page" src="https://github.com/user-attachments/assets/41e660c6-0fcd-4935-b6d6-493032582785" />
+<img width="1680" alt="monitors-list" src="https://github.com/user-attachments/assets/175f584b-0782-4019-81f6-2382f7922415" />
 
 ## 🚀 Features
 
