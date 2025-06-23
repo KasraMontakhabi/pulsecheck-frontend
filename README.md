@@ -240,18 +240,6 @@ NEXT_PUBLIC_API_URL=https://your-api-domain.com
 NEXT_PUBLIC_WS_URL=wss://your-api-domain.com
 ```
 
-### Docker Support
-```dockerfile
-FROM node:18-alpine
-WORKDIR /app
-COPY package*.json ./
-RUN npm install
-COPY . .
-RUN npm run build
-EXPOSE 3000
-CMD ["npm", "start"]
-```
-
 ## 🔐 Security
 
 - JWT tokens stored in localStorage
