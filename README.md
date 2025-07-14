@@ -264,4 +264,4 @@ NEXT_PUBLIC_WS_URL=wss://your-api-domain.com
 
 ---
 
-**Built with ❤️ using Next.js 14 and modern web standards**
+**Built with ❤️ using Next.js 15 and modern web standards**
